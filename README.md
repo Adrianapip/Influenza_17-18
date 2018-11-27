@@ -22,7 +22,7 @@ One great point the authors make is that if mutations were the *sole reason* for
 
 How then to improve our chances of a better working vaccine? The paper suggests studying the "effect of past influenza exposures on host repsonses to vaccination..." as this will "improve not just seasonal vaccine effectiveness but also predictions of season severity, viral evolution, and the design of universal vaccines..." 
 
-These are certainly big picture problems that we need to address, and are the inspiration for my mini-analysis that follows.
+Although these are certainly big picture problems we need to address, I'm going to use them as inspiration for a mini-analysis of influenza genetics and the vaccine.
 
 ---
 
