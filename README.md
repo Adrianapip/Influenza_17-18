@@ -6,7 +6,7 @@ This year in the flu tent line, I overhear talk that gets my nerd gears moving. 
 
 Worrying about the flu is a valid concern - and as mother of small children, I've never thought twice about getting our shots. Afterall, the vaccine is currently our only technology for defense.
 
-But why is our only technology still somewhat faulty? Influeza was discovered early in the last century. The vaccine was created around the time of WWII.
+But why is the technology still faulty? Influeza was discovered early in the last century. The vaccine was created around the time of WWII.
 
 ### **Why, in modern times, do we still have to wonder every season about the flu vaccine’s efficacy?**
 
