@@ -8,7 +8,7 @@ Worrying about the flu is a valid concern - and as mother of small children, I'v
 
 But why is our only technology still somewhat faulty? Influeza was discovered early in the last century. The vaccine was created around the time of WWII.
 
-**Why, in modern times, do we still have to wonder about the vaccine’s efficacy every season?**
+###**Why, in modern times, do we still have to wonder about the vaccine’s efficacy every season?**
 
 ---
 
@@ -34,12 +34,10 @@ A common problem I encounter in my work is combing through massive amounts of da
 
 Using Python for data analysis, I'm going to be initially answering:
 
-   ##### 1. What strains were included in the 2017-18 vaccine?
-   ##### 2. What subtypes and strains were most common in the US in 2017-18?
+   ### 1. What strains were included in the 2017-18 vaccine?
+   ### 2. What subtypes and strains were most common in the US in 2017-18?
    
 A follow up on this analysis will answer: 
 
-   ##### 3. How similar were the recommended vaccine strains to the reported sequences during the 2017-18 season?
+   ### 3. How similar were the recommended vaccine strains to the reported sequences during the 2017-18 season?
    
-
----
