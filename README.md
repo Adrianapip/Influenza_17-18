@@ -1,12 +1,12 @@
-# Influenza Vaccine/Genetics Analysis
+# Influenza Vaccine/Genetics Analysis (currently being updated)
 
 ---
 
 This year in the flu tent line, I overhear talk that gets my nerd gears moving. Patients are chatting about whether the shot will work. 
 
-Worrying about the flu is a valid concern - and as mother of small children, I've never thought twice about getting our shots. Afterall, the vaccine is currently our only technology for defense.
+Worrying about the flu is a valid concern - and as mother of small children, I've never thought twice about getting our shots. After all, the vaccine is currently our only technology for defense.
 
-But why is the technology still faulty? Influeza was discovered early in the last century. The vaccine was created around the time of WWII.
+But why is the technology still faulty? Influenza was discovered early in the last century. The vaccine was created around the time of WWII.
 
 ### **Why, in modern times, do we still have to wonder every season about the flu vaccine’s efficacy?**
 
@@ -20,7 +20,7 @@ Though interestingly, even when well-matched to circulating strains, vaccines ca
 
 One great point the authors make is that if mutations were the *sole reason* for decreased vaccine efficacy, we'd be winning the seasonal flu game by now. In other words, there are other confounding factors in the mix that we don't yet understand. 
 
-How then to improve our chances of a better working vaccine? The paper suggests studying the "effect of past influenza exposures on host repsonses to vaccination..." as this will "improve not just seasonal vaccine effectiveness but also predictions of season severity, viral evolution, and the design of universal vaccines..." 
+How then to improve our chances of a better working vaccine? The paper suggests studying the "effect of past influenza exposures on host responses to vaccination..." as this will "improve not just seasonal vaccine effectiveness but also predictions of season severity, viral evolution, and the design of universal vaccines..." 
 
 Although these are certainly big picture problems we need to address, I'm going to use them as inspiration for a mini-analysis of influenza genetics and the vaccine.
 
