@@ -8,7 +8,7 @@ Worrying about the flu is a valid concern - and as mother of small children, I'v
 
 But why is our only technology still somewhat faulty? Influeza was discovered early in the last century. The vaccine was created around the time of WWII.
 
-###**Why, in modern times, do we still have to wonder about the vaccine’s efficacy every season?**
+### **Why, in modern times, do we still have to wonder about the vaccine’s efficacy every season?**
 
 ---
 
