@@ -43,7 +43,8 @@ A follow up on this analysis will answer:
 
 ---
 
-Question 1: What strains were included in the 2017-18 vaccine?
+### Question 1: What strains were included in the 2017-18 vaccine?
+
 Last flu season (2017-18) was severe compared to previous years. The CDC classified the season as having an overall "High" severity across all age groups. Previous years yielded largely low to moderate seasons.
 
 (What exactly does “High Severity” mean? There are many factors that contribute to this classification, but mainly it’s based on flu-related hospitalizations and deaths. To explore the details further, here are excellent resources/graphs tracking this data: the US monitoring system [FluView](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) and the [WHO's FluNet](https://www.who.int/influenza/resources/charts/en/).)
