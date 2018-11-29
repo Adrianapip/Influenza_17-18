@@ -40,4 +40,20 @@ Using Python for data analysis, I'm going to be initially answering:
 A follow up on this analysis will answer: 
 
    ### 3. How similar were the recommended vaccine strains to the reported sequences during the 2017-18 season?
-   
+
+---
+
+# Question 1: What strains were included in the 2017-18 vaccine? 
+
+Early in 2017, the WHO announced its [recommended composition of the influenza vaccine](http://www.who.int/influenza/vaccines/virus/recommendations/2017_18_north/en/): 
+
+* A/Michigan/45/2015 (H1N1)pdm09-like virus
+* A/Hong Kong/4801/2014 (H3N2)-like virus
+* B/Brisbane/60/2008-like virus
+* B/Phuket/3073/2013-like virus (for quadrivalent vaccine)
+
+An expert panel sources and studies recent surveillance data of the virus, clinical antibody studies of currently circulating viruses, and predictive models of genetic/antigenic changes to come up with these recommendations. Each country then formulates their own vaccine based on regional requirements and observations.
+
+Last flu season (2017-18) was severe compared to previous years. The CDC classified the season as having an overall ["High" severity](https://www.cdc.gov/flu/professionals/classifies-flu-severity.htm) across all age groups. Previous years yielded largely low to moderate seasons. 
+
+What exactly does “High Severity” mean? There are many factors that contribute to this classification, but mainly it’s based on flu-related hospitalizations and deaths. To explore the details further, here are excellent resources/graphs tracking this data: the US monitoring system [FluView](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) and the [WHO's FluNet](https://www.who.int/influenza/resources/charts/en/).
