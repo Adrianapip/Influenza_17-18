@@ -12,7 +12,7 @@ But why is our only technology still somewhat faulty? Influenza was discovered e
 
 ---
 
-## IUnfluenza Vaccine Background
+## Influenza Vaccine Background
 
 One well understood cause for reduced vaccine efficacy is the time lag. It takes months from when vaccine strains are chosen and manufactured, and then publicly distributed - ample time for influenza to mutate its way out of vaccine formulations. 
 
