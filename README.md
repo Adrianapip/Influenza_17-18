@@ -57,3 +57,5 @@ An expert panel sources and studies recent surveillance data of the virus, clini
 Last flu season (2017-18) was severe compared to previous years. The CDC classified the season as having an overall ["High" severity](https://www.cdc.gov/flu/professionals/classifies-flu-severity.htm) across all age groups. Previous years yielded largely low to moderate seasons. 
 
 What exactly does “High Severity” mean? There are many factors that contribute to this classification, but mainly it’s based on flu-related hospitalizations and deaths. To explore the details further, here are excellent resources/graphs tracking this data: the US monitoring system [FluView](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) and the [WHO's FluNet](https://www.who.int/influenza/resources/charts/en/).
+
+# Question 2 and 3 will require analyzing records from a flu database.
