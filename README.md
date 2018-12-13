@@ -2,13 +2,21 @@
 
 ---
 
-This year in the flu tent line, I overhear talk that piques my interest. Patients are chatting about whether the shot will work. 
+This data analysis is inspired by my annual task of getting flu shots. As a mother of small children, I've never thought twice about getting our shots. It just gets done, and we hope for the best. As we wait, I overhear chatter among other patients about whether the shot will work.
 
-Worrying about the flu is a valid concern - and as mother of small children, I've never thought twice about getting our shots. After all, the vaccine is currently our only technology to fend off the flu.
+I began to think of my beloved microbiology factoids  - wasn’t influenza was discovered early in the last century? The vaccine was created around the time of WWII. Why are we still worrying about the vaccine’s efficacy every season?
 
-But why is our only technology still somewhat faulty? Influenza was discovered early in the last century. The vaccine was created around the time of WWII.
+To answer this question, I thought it’d be interesting to gather and analyze some influenza datasets from last season (17-18). 
 
-### **Why, in modern times, do we still have to wonder every season about the flu vaccine’s efficacy?**
+---
+
+This project aims to tackle two common issues I often encounter. 
+
+First is the type of data. Most analyses are quite thorough in that they deeply examine either the demographics (i.e., ages, gender, location, etc.) OR sequence data (in depth topics such as mutation rates or phylogenetic studies). Both in-depth analyses are highly useful in their respective fields, but is sometimes too detailed for a general overview of the topic. 
+
+Second is the amount of data. I found out pretty early on that the amount of data required for these analyses will often exceed common spreadsheet application’s (e.g., Excel) capabilities. It was time to move onto more powerful, streamlined methods. 
+
+In this project, I’m going to lightly examine and combine both demographics/sequence data in one tidy analysis using Python (and some essential libraries, such as matplotlib, BioPython, and Pandas.) The purpose is to create a reproducible template applicable to any introductory study of infectious disease data. As someone with a background of biochemistry, microbiology, and a bit of computational biology, I often perform these types of analyses to establish a strong foundation of general knowledge in both epidemiology and genetics. 
 
 ---
 
@@ -22,24 +30,15 @@ One great point the authors make is that if mutations were the sole reason for d
 
 How then to improve our chances of a better working vaccine? One of the suggestions from the authors is to study the "effect of past influenza exposures on host responses to vaccination."
 
-And with this, my data analysis begins.
+My background analysis findings are that there are factors in the seasonal flu season that we haven’t figured out yet, and to keep studying past seasons to gain a better understanding and predicting outbreak severities. 
 
----
+To that end, in combination with the general questions outlined above, I have come up with some key questions I hope to answer:
 
-## Project Details
+1. What strains were included in the 2017-18 vaccine?
 
-Here I will show how to look at large subsets of data using influenza records from last season. This first part of the analysis will be a general assessment of the data (e.g. demographics, categorizing strains and subtypes), as I often like to get my bearings before figuring out what useful information can be extracted.
+2. What subtypes and strains were most common in the US in 2017-18?
 
-A common problem I encounter in my work is combing through massive amounts of data - it can be records, like what I'm going to be working with below, or tons of sequences that I need to investigate for say, a consensus alignment. I figured out pretty early on that Excel wasn't cutting it for investigating 20,000 genetic sequences at once. 
-
-Using Python for data analysis, I'm going to be initially answering:
-
-   ### 1. What strains were included in the 2017-18 vaccine?
-   ### 2. What subtypes and strains were most common in the US in 2017-18?
-   
-A follow up on this analysis will answer: 
-
-   ### 3. How similar were the recommended vaccine strains to the reported sequences during the 2017-18 season?
+3. How similar were the recommended vaccine strains to the reported sequences during the 2017-18 season?
 
 ---
 
