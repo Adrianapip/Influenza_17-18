@@ -1,4 +1,4 @@
-# Influenza Vaccine/Genetics Analysis (currently being updated)
+# Influenza Vaccine/Genetics Analysis 
 
 ---
 
